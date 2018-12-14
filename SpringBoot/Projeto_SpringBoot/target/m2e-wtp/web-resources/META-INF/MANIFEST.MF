@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Built-By: avtamayoshi
+Build-Jdk: 10.0.2
+Implementation-Title: Projeto_SpringBoot
+Implementation-Version: 1.0.0
+Implementation-Vendor-Id: br.com.allianz.springboot
+Implementation-Vendor: Pivotal Software, Inc.
+Implementation-URL: http://projects.spring.io/spring-boot/Projeto_Spri
+ ngBoot/
+Created-By: Maven Integration for Eclipse
+
